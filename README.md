@@ -1,4 +1,4 @@
-# wallpapar_app
+# Portfolio App
 
 A new Flutter project.
 
